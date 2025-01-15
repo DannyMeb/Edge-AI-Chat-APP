@@ -1,7 +1,7 @@
 
-# Falcon Chat App
+# Edge Ai Chat
 
-**Falcon Chat** is a Flutter-based application that allows users to interact with AI models (such as Falcon LLM) locally on their devices. The app features a chat interface, YouTube video integration for relevant AI content, and chat history management. Users can load a Falcon model and interact with it through a chatbot.
+**Edge LLM Chat** is a Flutter-based application that allows users to interact with AI models (such as Falcon LLM) locally on their devices. The app features a chat interface, YouTube video integration for relevant AI content, and chat history management. Users can load a Falcon model and interact with it through a chatbot.
 
 ## Table of Contents
 - [Overview](#overview)
